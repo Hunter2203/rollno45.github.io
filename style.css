@@ -1,0 +1,30 @@
+body{
+	background-color: #100e17;
+	text-align: center;
+	color: white;
+	line-height: 20px;
+	font-weight: bolder;
+	font-size: 120%;
+	font-family: "times new roman";
+
+}
+
+.toptext{
+	text-align: right;
+}
+
+h2 {
+	 color: red;
+	 background-color: none;
+	 text-align: center;
+}
+h1{
+	color: yellow;
+	background-color: none;
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	display: inline-table;
+}

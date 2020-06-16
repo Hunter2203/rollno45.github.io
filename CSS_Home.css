@@ -1,0 +1,41 @@
+body{
+	background-image: url(bk3.jpeg);
+	background-size: cover;
+
+}
+
+.container{
+	display: flex;
+	}
+
+img {
+	width: 450px;
+	height: 300px;
+	margin: 5px;
+	transition: all .05s;
+
+}
+
+.buttonnext{
+	background-color: green;
+
+}
+
+img:hover {
+	transform: scale(1.15);
+}
+h1 {color: white;
+	border-bottom: 2px solid yellow;
+	border-right: 2px solid yellow;
+	text-align: center;
+	width: 100px
+}
+
+h2{text-align: center;
+	color: white;
+
+}
+h3 {
+	color: red;
+	text-align: center;
+}
